@@ -50,3 +50,5 @@ Explored Directories:
 Ran ls -l /etc/skel to check the contents of the skeleton directory used for new user home directories.
 
 Used ls and ls -ld /home/kceefrank (after user deletion) to confirm the user's home directory was gone.
+Finally Some of Beau Screenshots
+Thanks....
